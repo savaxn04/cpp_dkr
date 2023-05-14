@@ -135,6 +135,9 @@
     <Text Include="books.txt" />
     <Text Include="log.txt" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\ДКР_Савченко_РЕ11.pdf" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
